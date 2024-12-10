@@ -16,7 +16,7 @@ public class Book {
         return author;
     }
 
-    public int getYear() {
+    public int getYearPublished() {
         return year;
     }
     // This is your working class.
